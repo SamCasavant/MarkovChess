@@ -1,0 +1,4 @@
+ChessAI
+*.pgn
+models/*
+*.prof
